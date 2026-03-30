@@ -2,7 +2,7 @@ import BannerImage from "../../assets/banner.png";
 
 const Banner = () => {
   return (
-    <div className="relative min-h-162.5 flex items-center overflow-hidden">
+    <div className="relative text-center md:text-left min-h-162.5 flex items-center overflow-hidden">
       <div className=" mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-center relative z-10">
         {/* Left Content */}
         <div className="space-y-4">
@@ -24,7 +24,7 @@ const Banner = () => {
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">
-            <button className="bg-red-600 hover:bg-red-500 transition-all px-8 py-4 cursor-pointer rounded-2xl font-semibold text-lg shadow-xl shadow-red-500/30 flex items-center gap-3 group text-white">
+            <button className="bg-red-600 hidden md:block hover:bg-red-500 transition-all px-8 py-4 cursor-pointer rounded-2xl font-semibold text-lg shadow-xl shadow-red-500/30 flex items-center gap-3 group text-white">
               Get Unlimited Access
               <span className="group-hover:translate-x-1 transition">→</span>
             </button>
