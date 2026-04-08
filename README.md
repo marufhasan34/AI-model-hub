@@ -1,16 +1,31 @@
-# React + Vite
+📌 AI‑Model Hub Resources
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A centralized directory of AI models, tools, and resources — perfect for developers, students, and AI enthusiasts.
 
-Currently, two official plugins are available:
+🔗 Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 https://ai-model-hub-resources.netlify.app/
 
-## React Compiler
+🚀 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+AI‑Model Hub Resources is a curated collection of artificial intelligence tools, models, and related resources aimed at providing easy access and discovery.
+The site intends to help users explore a wide range of AI capabilities — including models for text, vision, code, audio, automation, and more — in a single place.
 
-## Expanding the ESLint configuration
+(If the actual content becomes available later, you can expand this with specific sections.)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 Key Features (planned / typical features)
+
+✔ Directory of popular AI tools (e.g., ChatGPT, Claude, Gemini, etc.)
+✔ Curated AI model links and documentation
+✔ Categories for different use cases (text, image, code, audio)
+✔ External links to official tools and resources
+✔ Easy navigation and resource exploration
+
+
+🧠 Why AI Hub Resources?
+Helps developers find AI tools quickly
+Great for learning & experimentation
+Centralizes AI model resources in one place
+Saves time searching across multiple platforms
+
+This idea follows the general pattern of AI tool hub sites like other curated directories online.
